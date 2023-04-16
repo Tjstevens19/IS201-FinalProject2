@@ -1,0 +1,45 @@
+.homebg {
+    /* background-image: url('/finalProject/startbootstrap-resume-gh-pages/img/TotK-Background.jpg'); */
+    background-image: url('/IS201-FinalProject/img/TotK-Background.jpg');
+}
+h1 {
+    color: mediumspringgreen
+}
+body {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color:rgb(2, 151, 94);
+    font-size: x-large
+}
+.dashlabel{
+    color: black;
+}
+.listposition{
+    padding-left: 10px;
+}
+ul {
+    color:gray;
+}
+a {
+    color: mediumspringgreen;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: wavy;
+    font-weight: bold;
+    font-size: 25px;
+}
+.header {
+    top: 5px;
+    text-align: center;
+    padding-top: 10px;
+}
+.videoposition {
+    text-align: center;
+}
+.footer {
+    bottom: 5px;
+    text-align: center;
+    height: 25px;
+    padding-bottom: 10px;
+}
